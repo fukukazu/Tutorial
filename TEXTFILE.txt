@@ -1,6 +1,8 @@
-����́C�`���[�g���A���ł��B
+これは，チュートリアルです。
 <<<<<<< HEAD
-�u�����`�P�ōX�V�B
+ブランチ１で更新。
 =======
-branch2�ōX�V�B
+branch2で更新。
 >>>>>>> branch2
+
+github上で更新！
